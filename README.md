@@ -1,5 +1,7 @@
 # VIP 视频解析播放器
 一个基于 Python+Tkinter 开发的本地 VIP 视频解析播放器，支持主流视频网站链接解析，内置官网快捷跳转，操作简单且界面友好。
+![1000010719](https://github.com/user-attachments/assets/3da39a53-13d9-4955-96bf-7aa58bb5c719)
+<img width="681" height="514" alt="捕获" src="https://github.com/user-attachments/assets/36054db8-f179-42ee-acc0-0345d2f95168" />
 
 ## 🚀 快速开始
 ### 环境依赖
@@ -21,10 +23,10 @@
 - 跨路径运行：项目文件夹可放在任意磁盘，双击即可启动。
 
 ## 📂 项目结构
-```plaintext
-VIPVideoPlayer/
-├─ Python/                # 内置独立Python环境（含依赖库）
-├─ vip_video_player.py    # 播放器核心代码
+```纯文本
+VIP视频播放器/
+ ├─ Python/                # 内置独立Python环境（含依赖库）
+ ├─ vip_video_player.py    # 播放器核心代码
 ├─ Start_Silent.vbs       # 静默启动脚本（无黑窗口）
 └─ README.md              # 项目说明文档
 
