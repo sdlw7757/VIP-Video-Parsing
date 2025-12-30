@@ -1,0 +1,25 @@
+# Python 虚拟环境和包
+python/
+venv/
+env/
+*.env
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+*.dll
+*.lib
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE 和编辑器配置
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
