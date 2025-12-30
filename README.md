@@ -1,7 +1,6 @@
 # VIP 视频解析工具
 一个基于 Python+Tkinter 开发的本地 VIP 视频解析工具<电脑端+手机端>，支持主流视频网站链接解析，内置官网快捷跳转，操作简单且界面友好。
-<img width="1170" height="618" alt="捕获" src="https://github.com/user-attachments/assets/da04d706-a134-4045-938b-10614a9be5fa" />
-
+<img width="1090" height="520" alt="捕获" src="https://github.com/user-attachments/assets/6bd14ca5-911f-4527-9192-5617e3a716a9" />
 ## 🚀 快速开始
 ### 环境依赖
 项目已内置独立 Python 环境（Python文件夹），无需额外安装 Python，仅需确保：
